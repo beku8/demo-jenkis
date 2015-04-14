@@ -15,6 +15,6 @@ public class DemoJenkinsApplication {
     
     @RequestMapping("/")
     public String hello(){
-    	return "Hello world";
+    	return "Hello world! #5 #7";
     }
 }
